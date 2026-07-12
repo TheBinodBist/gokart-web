@@ -2,6 +2,6 @@ import { Button } from "@/components/ui/button";
 
 export default function App(){
   return(
-    <Button>helllo world</Button>
+    <p className="text-red-500"></p>
   )
 }
